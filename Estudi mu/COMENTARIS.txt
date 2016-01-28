@@ -1,0 +1,9 @@
+Per NR es veu clar el resultat, per VP dóna una gràfica molt lletja amb moltes irregularitats.
+
+Dir que per Residu i Secant, les gràfiques tenen representacions molt maques, però per valors petits de mu no convergeixen.
+Ja que l'ordinador em tardava més de 10 minuts i he dit "ya bastaaa" xd.
+
+    - El del Residu no convergeix per valors de mu [1:7]
+    - El del Secant no convergeix quan mu=1;
+
+Tot i que es veu clar a les gràfiques que per valors de mu petits, k tendeix a infinit.

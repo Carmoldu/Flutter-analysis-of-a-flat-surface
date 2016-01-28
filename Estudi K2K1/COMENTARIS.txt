@@ -1,0 +1,7 @@
+El de N-R i VP dóna gràfiques lògiques i explicables, que veiem que a mesura que creix K2/K1, la k va divergint.
+
+Pel que fa el del Residu, no he pogut analitzar-lo ja que no em convergeix en cap valor, només en el cas de K2=K1 que es el que
+hem fet al main_code.
+
+Pel que fa al Secant, només m'ha convergit per K2/K1= 1 i 2. La resta no m'ha convergit, és per això que surt aquesta gràfica tan
+lletja.
